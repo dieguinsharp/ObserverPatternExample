@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\bin\Debug\net7.0\ObserverPatternExample.exe
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\bin\Debug\net7.0\ObserverPatternExample.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\bin\Debug\net7.0\ObserverPatternExample.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\bin\Debug\net7.0\ObserverPatternExample.dll
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\bin\Debug\net7.0\ObserverPatternExample.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.dll
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\refint\ObserverPatternExample.dll
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ObserverPatternExample.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\ObserverPatternExample\obj\Debug\net7.0\ref\ObserverPatternExample.dll
